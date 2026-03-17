@@ -1,21 +1,3 @@
----
-title: Chest X-Ray Disease Classifier
-emoji: 🫁
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-app_port: 7860
-pinned: true
-license: mit
-tags:
-  - medical
-  - radiology
-  - chest-xray
-  - densenet
-  - multi-label-classification
-  - medicalgpt
----
-
 <div align="center">
 
 # 🫁 Chest X-Ray Disease Classifier
